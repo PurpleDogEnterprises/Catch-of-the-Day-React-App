@@ -1,0 +1,9 @@
+import React from 'react';
+
+class StorePicker extends React.Component {
+  render() {
+    return <p>Hello, testing testing 1, 2, 3...</p>
+  }
+}
+
+export default StorePicker;
